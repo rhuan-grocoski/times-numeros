@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json
+https://raw.github.com/rhuan-grocoski/times-numeros/blob/main/DADOS)
