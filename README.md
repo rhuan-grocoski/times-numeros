@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/rhuan-grocoski/times-numeros/blob/main/DADOS)
+https://raw.githubusercontent.com/rhuan-grocoski/times-numeros/refs/heads/main/DADOS
